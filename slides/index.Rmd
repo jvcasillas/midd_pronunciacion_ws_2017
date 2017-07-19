@@ -105,6 +105,31 @@ background-position: 85%, 35%
 
 - ¿Es importante estudiar/practicar la pronunciación? ¿Por qué?
 
+--
+
+- ¿**Qué es la fonética? ¿y la fonología**?
+
+---
+class: reverse, middle
+
+.pull-left[
+
+## **La fonética**
+
+La fonética se ocupa del estudio científico de los sonidos
+]
+
+.pull-right[
+
+## <blue>La fonología</blue>
+
+La fonología estudia cómo los sonidos se comportan en una lengua, cómo se usan para distinguir significados, su distribución en la lengua y sus relaciones
+
+]
+
+.footnote[
+Schwegler (2009)
+]
 ---
 
 # El estado de la cuestión
@@ -367,8 +392,18 @@ Estructura silábica
 ]
 
 ---
+class: center, middle
 
-VOCALES
+<div>
+  <img width="500" src="./assets/img/vowels_sp.png">
+  <img width="500" src="./assets/img/vowels_all.png">
+</div>
+
+--
+
+<div>
+  <img src="./assets/img/schwa_anti.jpg">
+</div>
 
 ---
 
@@ -483,7 +518,7 @@ Estructura silábica
 ]
 
 ---
-background-image: url(./assets/img/companero1.gif)
+background-image: url(./assets/img/companero2.gif)
 background-size: 350 px
 background-position: 85% 20%
 
@@ -520,22 +555,19 @@ background-position: 85% 20%
 
 
 
+
+
 class: inverse, middle
-background-image: url("./assets/img/learn.jpg")
+background-image: url("./assets/img/welcome.jpg")
 background-size: 400px
 background-position: 85%, 30%
 
 # La clínica de pronunciación 
 
 ---
-class: inverse, middle
-background-image: url("./assets/img/learnMidd2.gif")
+background-image: url("./assets/img/armin.jpg")
 background-size: 400px
-background-position: 85%, 30%
-
-# La clínica de pronunciación 
-
----
+background-position: 90% 20%
 
 # La clínica de pronunciación 
 
@@ -597,9 +629,9 @@ background-position: 85%, 30%
 
 
 class: inverse, middle
-background-image: url("./assets/img/learn.jpg")
-background-size: 400px
-background-position: 85%, 30%
+background-image: url("./assets/img/praat.png")
+background-size: 600px
+background-position: 85% 50%
 
 # Un ejemplo... 
 
@@ -609,17 +641,128 @@ background-position: 85%, 30%
 
 # Un ejemplo... Las oclusivas y el VOT
 
-## ¿Qué es VOT?
+### ¿Qué es una oclusiva?
 
-## ¿Cómo se manifiesta en inglés y español?
+- Una consonante caracterizada por una fase de oclusión/cierre seguida por una explosión
+
+---
+background-image: url("./assets/img/ipo.png")
+background-size: contain
 
 ---
 
 # Un ejemplo... Las oclusivas y el VOT
 
-## ¿Cómo podemos simplificar el problema?
+### ¿Qué es una oclusiva?
 
-## ¿Cómo podemos practicarlo?
+- Consonante caracterizada por una fase de oclusión y luego una explosión (modo oclusivo)
+
+--
+
+.pull-left[
+
+### **Español**
+
+- Ortografía: "p", "t", "k", "b", "d", "g"
+
+- Sonoridad:
+  - sordas: /**p, t, k,**/
+  - sonoras: /<blue>b, d, g</blue>/
+
+- 3 puntos de articulación
+  - Bilabial: /p, b/
+  - <black>dental</black>: /t, d/
+  - velar: /k, g/
+
+]
+
+--
+
+.pull-right[
+
+### <blue>Inglés</blue> 
+
+- Ortografía: "p", "t", "k", "b", "d", "g"
+
+- Sonoridad:
+  - sordas: /**p, t, k,**/
+  - sonoras: /<blue>b, d, g</blue>/
+
+- 3 puntos de articulación
+  - Bilabial: /p, b/
+  - <black>alveolar<black>: /t, d/
+  - velar: /k, g/
+
+]
+
+---
+
+# Un ejemplo... Las oclusivas y el VOT
+
+### ¿Qué es VOT?
+
+- Tiempo de inicio de sonoridad (<grey>*voice onset time*, Lisker y Abramson, 1959</grey>)
+- Coordinación de gestos articulatorios
+- La duración--medida en milisegundos--entre la explosión de una consonante oclusiva y el comienzo de la fonación
+
+---
+background-image: url("./assets/figs/vot_oscillograms.png")
+background-size: contain
+
+---
+
+# Un ejemplo... Las oclusivas y el VOT
+
+### ¿Qué es VOT?
+
+- Tiempo de inicio de sonoridad (<grey>*voice onset time*, Lisker y Abramson, 1959</grey>)
+- Coordinación de gestos articulatorios
+- La duración--medida en milisegundos--entre la explosión de una consonante oclusiva y el comienzo de la fonación
+
+### ¿Cómo se manifiesta en inglés y español?
+
+- **Inglés**
+  - /b, d, g/, short-lag (VOT corto)
+  - /p, t, k/, long-lag (VOT largo)
+
+--
+
+- <blue>Español</blue>
+  - /b, d, g/, lead (fonación antes de la explosión)
+  - /p, t, k/, short-lag (VOT corto)
+
+---
+class: bottom
+background-image: url("./assets/figs/sp_en_stops.png")
+background-size: contain
+
+--
+
+- **Pronunciar bien las oclusivas de una L2 mejora la "evaluación" del acento extranjero** (<grey>Sundara, Polka, & Baum, 2006</grey>)
+
+---
+# Un ejemplo... Las oclusivas y el VOT
+
+### ¿Cómo podemos simplificar el problema?
+
+1. Analizamos los segmentos en base a los rasgos distintivos que tienen en común  
+Ej.  
+  - Sólo las sordas (/p, t, k/)
+  - Sólo las sonoras (/b, d, g/)
+
+--
+
+2. Enfatizamos la diferencia fundamental entre el inglés y el español  
+
+--
+
+  **La aspiración**
+
+
+
+--
+
+### ¿Cómo podemos practicarlo?
 
 ---
 
@@ -639,7 +782,7 @@ background-position: 85%, 30%
 
 
 class: inverse, middle
-background-image: url("./assets/img/learn.jpg")
+background-image: url("./assets/img/sacar.png")
 background-size: 400px
 background-position: 85%, 30%
 
@@ -805,6 +948,15 @@ background-position: 85%, 30%
 
 ---
 
+class: inverse, middle
+background-image: url("./assets/img/learnMidd2.gif")
+background-size: 400px
+background-position: 85%, 30%
+
+# ¿Funciona?
+
+---
+
 ```{r, echo=FALSE, warning=FALSE,cache=FALSE,results='asis'}
 cat('<iframe src="./assets/figs/prodAll.html" width=100% height=100% allowtransparency="true" frameborder=0> </iframe>')
 ```
@@ -835,9 +987,147 @@ background-image: url("./assets/img/learn.jpg")
 background-size: 400px
 background-position: 85%, 30%
 
-# Ejercicios... 
+# Métedo, ejercicios... 
 
 # e ideas para implementarlos
+
+---
+
+# El orden importa (Prator, 1971)
+
+<div style="float:right">
+  <img width="50" src="./assets/img/hfill.png">
+  <img width="350" src="./assets/img/orden.gif"> 
+</div>
+
+- Suprasegmentales primero
+  - Entonación de preguntas
+  - Reconocimiento de la sílaba tónica
+
+--
+
+- Empezar con segmentos más fáciles (de producir y explicar)
+  - las vocales
+  - las oclusivas (/p, t, k/ → /b, d, g/)
+
+--
+
+- Diferencias alofónicas en distribución complementaria
+  - /s/ → [s, z]
+  - /b, d, g/ → [β, ð, ɣ]
+
+--
+
+- Variación libre, variación dialectal
+  - "d" final de palabra
+  - "n", "l", "r", "s" en distintos países
+
+---
+
+# No sólo imitación
+
+<div style="float:right">
+  <img width="50" src="./assets/img/hfill.png">
+  <img width="350" src="./assets/img/imitar.gif"> 
+</div>
+
+- Se enseña mediante la imitación, pero...
+
+--
+
+- Hay que crear conciencia, fomentar conocimiento metafonético,  
+i.e., ¿Qué hago con la lengua? ¿Dónde la pongo?
+
+--
+
+- Esto ayuda a crear hábitos (memoria de largo plazo, memoria muscular)
+
+---
+class: inverse, left, middle
+background-image: url("./assets/img/bg1.gif")
+background-size: 300px
+background-position: 90% 50%
+
+## "pronunciation, which, unlike other language skills,  
+## involves both cognitive and motor functions:  
+## few would deny that repeated practice of motor  
+## functions results in increased dexterity."  
+## (Jones, 2002; p. 180)
+
+---
+class: inverse, left, middle
+background-image: url("./assets/img/bg2.gif")
+background-size: 300px
+background-position: 90% 50%
+
+## "pronunciation, which, unlike other language skills,  
+## involves both cognitive and motor functions:  
+## few would deny that repeated practice of motor  
+## functions results in increased dexterity."  
+## (Jones, 2002; p. 180)
+
+---
+class: center, middle
+
+<iframe width="100%" height="100%" src="http://www.seeingspeech.ac.uk/ipachart/display.php?chart=4&datatype=3&speaker=1" frameborder="0" allowfullscreen></iframe>
+
+---
+class: center, middle
+
+<iframe width="100%" height="100%" src="https://dood.al/pinktrombone/" frameborder="0" allowfullscreen></iframe>
+
+---
+
+# Frecuencia
+
+<div style="float:right">
+  <img width="50" src="./assets/img/hfill.png">
+  <img width="300" src="./assets/img/idontknow.jpg"> 
+</div>
+
+- No demasiado, pero a menudo (<grey>Broughton y colegas, 1980</grey>)
+
+--
+
+- Depende de las prioridades de la clase
+
+--
+
+- Se puede incluir una actividad como precalentamiento, cierre, e incluso sobre la marcha si notáis un problema concreto.
+
+---
+
+# Más pautas a seguir
+
+- Percepción → producción
+
+--
+
+- Aislar el segmento → palabras → frases cortas, etc. 
+
+--
+
+- Aportar ejemplos de distintas variedades, hombres y mujeres
+
+--
+
+- Contrastar con su L1 (¡cognados!) y también otros sonidos de la L2
+
+.footnote[Broughton y colegas (1980)]
+
+---
+
+# Resumen
+
+- El orden importa
+
+- No sólo imitación
+
+- Mucha frecuencia, sesiones cortas
+
+- Percepción/producción
+
+- Incluir variación
 
 ---
 
@@ -845,8 +1135,8 @@ background-position: 85%, 30%
 
 ### En mis clases...
 
-- trabajos prácticos
-- futuros maestros, futuros lingüistas
+- Trabajos prácticos
+- Futuros maestros, futuros lingüistas
 
 --
 
@@ -859,15 +1149,23 @@ background-position: 85%, 30%
 
 ---
 
-# Actividad
+# Reflexionemos
+
+<div style="float:right">
+  <img width="50" src="./assets/img/hfill.png">
+  <img width="350" src="./assets/img/companero4.gif"> 
+</div>
+
+1. ¿Qué es la pronunciación? ¿Qué engloba? ¿Cuáles son los requisitos que uno debe cumplir para poder enseñar la pronunciación?
+
+2. ¿Cuál sería una meta asequible y realista para un estudiante de español como L2 con respecto a la pronunciación?
+
+3. ¿Qué papel desempeña la variación dialectal con respecto a la enseñanza de la pronunciación del español como L2? ¿Cómo se relaciona la variación dialectal con la noción de un español estándar?
+
+--
 
 - Desarrollar ideas/actividades para simplificar problemas fonéticos
-
 - Averiguar cómo presentar el problema y la actividad en un tiempo reducido para poder incluir en clase
-
----
-
-<iframe src="https://dood.al/pinktrombone/"></iframe>
 
 ---
 class: inverse, center
@@ -885,12 +1183,12 @@ Joseph V. Casillas
 (joseph.casillas@rutgers.edu)  
 
 
-### Presentación disponible en [github](http://www.jvcasillas.com/LSRL_2017/slides/html/index.html)
+### Presentación disponible en [github](http://www.jvcasillas.com/midd_pronunciacion_ws_2017/slides/index.html)
 
 
-PPTs antinguas de la clínica [aquí](www.jvcasillas.com)  
+PPTs antinguas de la clínica [aquí](http://www.jvcasillas.com/midd_pronunciacion_ws_2017/index.html)  
 
-PPTs nuevas disponibles [aquí](www.jvcasillas.com) al final del verano 
+PPTs nuevas disponibles [aquí](http://www.jvcasillas.com/midd_pronunciacion_ws_2017/index.html) al final del verano 
 
 ---
 background-color: Gainsboro

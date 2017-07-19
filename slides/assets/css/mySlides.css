@@ -142,6 +142,11 @@ grey {
   color: #515151;
 }
 
+black {
+  color: black;
+  font-weight: bold;
+}
+
 /* Add padding to all slides for 16:9 aspect ration */
 .remark-slide-content {
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */

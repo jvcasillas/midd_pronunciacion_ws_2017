@@ -1,7 +1,7 @@
-name: "midd_comunicacion_1_5_2017"
+name: ""
 output_dir: "."
 navbar:
-  title: "Comunicación 1.5"
+  title: "Jornadas Pedagógicas 2017"
   right: 
     - icon: glyphicon glyphicon-home
       href: http://www.jvcasillas.com
