@@ -643,7 +643,7 @@ background-position: 85% 50%
 
 ### ¿Qué es una oclusiva?
 
-- Una consonante caracterizada por una fase de oclusión/cierre seguida por una explosión
+- Una consonante caracterizada por una fase de oclusión/cierre y luego una explosión
 
 ---
 background-image: url("./assets/img/ipo.png")
@@ -1196,13 +1196,13 @@ background-color: Gainsboro
 # Bibliografía
 
 
-```{r, eval=TRUE, echo=FALSE, cache=FALSE}
+```{r, eval=TRUE, echo=FALSE, cache=FALSE, warnings=FALSE}
 library(RefManageR)
 bib <- ReadBib("./assets/bib/pronunciacion.bib", check = FALSE)
 ```
 
 
-```{r, results='asis', echo=FALSE, eval=TRUE, cache=FALSE}
+```{r, results='asis', echo=FALSE, eval=TRUE, cache=FALSE, warnings=FALSE}
 ui <- "- "
 space <- " "
 
