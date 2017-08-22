@@ -14,6 +14,5 @@ output:
 
 - [Trabajo práctico](http://www.jvcasillas.com/midd_pronunciacion_ws_2017/trabajo_practico/trabajo_practico.pdf)
 
-- [Clínicas antinguas](http://www.jvcasillas.com/midd_pronunciacion_ws_2017/archive/clinica_2014.zip)
+- [La clínica](http://www.jvcasillas.com/clinica/index.html)
 
-- Clínica 2017 (en agosto)
